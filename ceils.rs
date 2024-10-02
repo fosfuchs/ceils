@@ -1,3 +1,5 @@
+// I don't think I need to say this, just run it
+
 const WIDTH: usize = 10;
 const HEIGHT: usize = 10;
 
